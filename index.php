@@ -743,7 +743,7 @@ float:left;
                         <hr size="0" /></td>
                     </tr>
                     <tr>
-                      <td class="transboxfont11">We do counselling on how birds should be perfectly reared and the type of bird to rear at a particular time. we also perform the necessare vaccination for birds,&nbsp;we sell feeds as well and other medicines related to poultry birds...</td>
+                      <td class="transboxfont11">We do counselling on how birds should be perfectly reared and the type of bird to rear at a particular time. we also perform the necessare vaccination for birds,&nbsp;we sell feeds as well and other medicines related to poultry birds.we sell feed drinkers and all poultry products.</td>
                     </tr>
                   </table>
                 </div></td>
@@ -885,7 +885,7 @@ float:left;
                full of grace farms kwashiekuman(Amasaman Ga west)
               <p><strong>POSTAL ADDRESS </strong><br />
                 FOGF,kwashiekuman <br />
-                GA SOUTH <br />
+                GA WEST<br />
                 <br />
                 </p>
               <table border="0" cellpadding="2" cellspacing="0">
