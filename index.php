@@ -646,7 +646,7 @@ float:left;
   <tr>
     <td colspan="2" bgcolor="#8db600"><table width="1200" border="0" align="center" cellpadding="0" cellspacing="0">
       <tr>
-        <td class="bodytext2a" bgcolor="#f2f2f2">PICTURES ABOUT EVERYTHING IN FULL OF GRACE </td>
+        <marquee><td class="bodytext2a" bgcolor="#f2f2f2"><marquee>PICTURES ABOUT EVERYTHING IN FULL OF GRACE </marquee></td></marquee>
       </tr>
     </table></td>
   </tr>
@@ -661,17 +661,6 @@ float:left;
 <div class="carousel-container">
 <div class="carousel-wrapper slider2">
 
-
-
-<div class="carousel-element">
-<table width="380" border="0" cellspacing="0" cellpadding="0" >
-      <tr>
-        <td><img src="six.jpg"  width="380" height="210" border="20%" class="carousel" /></td>
-      </tr>
-      
-
-
-    
       
 
   
@@ -683,6 +672,14 @@ float:left;
       <img src="six.jpg" alt="">
       <img src="kill.jpg" alt="">
       <img src="rain.jpg" alt="">
+      <img src="level.jpg" alt="">
+      <img src="levell.jpg" alt="">
+      <img src="lev.jpg" alt="">
+      <img src="boy.jpg" alt="">
+      <img src="girl.jpg" alt="">
+      <img src="bam.jpg" alt="">
+      <img src="red.jpg" alt="">
+
     </figure>
     
       </tr>
@@ -699,7 +696,7 @@ float:left;
                 </tr>
                 <tr>
                   <td>&nbsp;</td>
-                  <td width="91%" class="bodytext2b">CALL US OR EMAIL US TO MAKE YOUR OTHER</td>
+                  <td width="91%" class="bodytext2b">CALL US OR EMAIL US TO MAKE YOUR ORDER</td>
                   <td width="">&nbsp;</td>
                 </tr>
                 <tr>
@@ -805,7 +802,7 @@ float:left;
                                     </tr>
                                     <tr>
                                       <td>&nbsp;</td>
-                                      <td width="91%" class="bodytext2bwhite style25">Quality and affordable eggs also  sale </td>
+                                      <td width="91%" class="bodytext2bwhite style25">Quality and affordable eggs also for sale </td>
                                       <td width="">&nbsp;</td>
                                     </tr>
                                     <tr>
@@ -831,7 +828,7 @@ float:left;
                               </tr>
                               <tr>
                                 <td>&nbsp;</td>
-                                <td width="91%" class="bodytext2b">OUR STORE CONTAINING FEED <br />
+                                <td width="91%" class="bodytext2b">OUR STORE CONTAINING FEEDS <br />
                                     <br /></td>
                                 <td width="4%">&nbsp;</td>
                               </tr>
@@ -885,7 +882,7 @@ float:left;
           </tr>
           <tr>
             <td width="333" valign="top" class="bodytextIM"><strong>HEADQUARTERS</strong><br />
-               full of grace house kwashiekuman(Amasaman Ga west)
+               full of grace farms kwashiekuman(Amasaman Ga west)
               <p><strong>POSTAL ADDRESS </strong><br />
                 FOGF,kwashiekuman <br />
                 GA SOUTH <br />
@@ -909,7 +906,7 @@ float:left;
                   <td colspan="3">fullofgrace484@gmail.com</td>
                   </tr>
                 <tr>
-                  <td colspan="4"><strong>DIGITAL ADDRESS: </strong>kwashiekuma</td>
+                  <td colspan="4"><strong></strong></td>
                   </tr>
               </table>
               <p>
